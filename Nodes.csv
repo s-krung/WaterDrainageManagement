@@ -1,0 +1,22 @@
+ID,Name,Type,Min,Max,Volume
+N1,Prapa Canal,Source,-1,-1,-1
+N2,Water Tank,Intermediate,12000,20000,15000
+N3,Number 9 Pond,Intermediate,80000,128100,108100
+N4,Plant Zone 1 Tank,Intermediate,150,200,180
+N5,Plant Zone 2 Tank,Intermediate,250,400,300
+N6,Plant Zone 4 Tank,Intermediate,150,200,190
+N7,Plant Zone 3 Tank,Intermediate,150,200,200
+N8,Sum Water,Intermediate,500,2000,1000
+N9,U Canal,Intermediate,5000,35000,25000
+N10,Prem Canal,Intermediate,100000,1000000,500000
+N11,Water Bank 1,Intermediate,2000,8000,3000
+N12,Plant Zone 1 Demand,Sink,-1,-1,1000
+N13,Plant Zone 2 Demand,Sink,-1,-1,1000
+N14,Plant Zone 4 Demand,Sink,-1,-1,500
+N15,Plant Zone 3 Demand,Sink,-1,-1,2000
+N16,Drain Pitsanulok,Intermediate,1000,200000,100000
+N17,Water Bank 2,Intermediate,1000,3450,2000
+N18,Rain Zone 1,Source,-1,-1,30000
+N19,Rain Zone 2,Source,-1,-1,20000
+N20,Rain Zone 3,Source,-1,-1,42000
+N21,Rain to Pond,Source,-1,-1,40000
